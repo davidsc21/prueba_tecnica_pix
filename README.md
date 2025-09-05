@@ -9,7 +9,7 @@ El flujo implementa un proceso completo de extracción, procesamiento y respaldo
 
 # **Nota**
 
-Buenos días/Tardes/noches equipo de pix robotics.
+Estimado equipo de pix robotics.
 
 En este repositorio se encuentra mi intento de prueba tecnica, digo intento debido a que por cuestiones de horarios solo tuve una semana para estudiar ya que la primera semana de estudio para la prueba me coincidio justamente con la semana de examenes en mi grupo, no trato de excusarme ni mucho menos, solo me gustaria hacer notar el entusiasmo que he tenido con la oportunidad que me han brindado por eso  adjunto evidencia de los cursos que alcanze a desarrollar, junto a unos ejercicios de practica que realize a lo largo del curso:
 
